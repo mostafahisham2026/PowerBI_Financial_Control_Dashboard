@@ -135,17 +135,17 @@ The dashboard includes:
 
 🟦 Executive Control Dashboard
 
-![Executive Control Dashboard](03-Screenshots/1.Executive_Control_Dashboard.jpg)
+![Executive Control Dashboard](03-ScreenShots/1.Executive_Control_Dashboard.jpg)
 
 
 🟧 Management Decision Dashboard
 
-![Management Decision Dashboard](03-Screenshots/2.Management_Decision_Dashboard.jpg)
+![Management Decision Dashboard](03-ScreenShots/2.Management_Decision_Dashboard.jpg)
 
 
 🟩 Financial Impact Dashboard
 
-![Financial Impact Dashboard](03-Screenshots/3.Financial_Impact_Dashboard.jpg)
+![Financial Impact Dashboard](03-ScreenShots/3.Financial_Impact_Dashboard.jpg)
 
 
 📌 Key KPI Measures
